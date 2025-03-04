@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋
 
 - 🔭 I’m currently working on exciting projects 😊
 - 🌱 I’m currently learning web3 and blockchain  🪢
