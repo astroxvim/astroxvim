@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on my personal project 👌
 - 🌱 I’m currently learning cutting-edge web3 tecchonolgies 🪢
-- 👯 I’m looking to collaborate on interesting and innovative projects  
+- 👯 I’m looking to collaborate on interesting and innovative projects 🥰
 - 💬 Ask me about anything  😜
 - ⚡ Fun fact: I don't have a pet when I was a child 😭
 
