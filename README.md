@@ -1,11 +1,10 @@
 ## Hi 👋
 
-- 🔭 I’m currently working on exciting projects 😊
-- 🌱 I’m currently learning web3 and blockchain  🪢
+- 🔭 I’m currently working on my personal project 😊
 - 👯 I’m looking to collaborate on interesting and innovative projects  
 - 🤔 I’m looking for help with my girlfriend problem  🥰
 - 💬 Ask me about anything  😜
-- ⚡ Fun fact: I don't have a pet 😭
+- ⚡ Fun fact: I don't have a pet when I was a child 😭
 
 <!--
 **astroxvim/astroxvim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
