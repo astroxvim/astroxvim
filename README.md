@@ -1,12 +1,13 @@
 ## Hi 👋
 
-- 🔭 I’m currently working on my personal project 👌
-- 🌱 I’m currently learning cutting-edge web3 tecchonolgies 🪢
-- 👯 I’m looking to collaborate on interesting and innovative projects 🥰
-- 💬 Ask me about anything  😜
-- ⚡ Fun fact: I don't have a pet when I was a child 😭
-  
-### 🤝 Let's build something incredible with love 💖
+<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+- 🔭 I’m currently working on my personal project 👌 </br>
+- 🌱 I’m currently learning cutting-edge web3 tecchonolgies 🪢 </br>
+- 👯 I’m looking to collaborate on innovative projects 🥰 </br>
+- 💬 Ask me about anything  😜 </br>
+- ⚡ Fun fact: I don't have a pet when I was a child 😭 </br>
+- 🤝 Let's callaborate! 🤝 </br>
+</br>
 
 <!--
 **astroxvim/astroxvim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
